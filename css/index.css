@@ -395,7 +395,9 @@ ul li+li{
 	padding-bottom: 18px;
 	border-bottom: 1px solid #e5e5e5;
 }
-
+#project_5 .follow_us a {
+	text-decoration: none;
+}
 #project_5 .follow_us a img {
 	margin-right: 10px;
 }
